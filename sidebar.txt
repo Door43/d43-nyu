@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nyu:home|Door43 (nyu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nyu|d43-nyu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nyu/archive/master.zip|d43-nyu.zip]]
+
+**Recent Changes**
+{{changes>ns = nyu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nyu|Ethnologue data]]
+
